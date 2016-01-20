@@ -18,8 +18,8 @@ This is a parallel implementation of multiple-label classification based on Spar
 2. We recommend the spark-1.3.1-bin-hadoop2.6 to be your running environment.
 
 ### sample
-We will upload some config sample and feature sample file as an example .
-
+We  upload  a train sample of topic TeamFollowBack with its related files in folder sample.
+Please read the sample/SAMPLE_README.md for details.
 
 ### Related works <br />
 **Please cite the following references in your related work.**
